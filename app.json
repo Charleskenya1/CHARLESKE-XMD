@@ -33,7 +33,7 @@
   "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "ANTICALL":
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD",
+      "value":"𝐷𝐵𝙊𝑌☆-MD",
       "required":false
 
     } ,
@@ -72,7 +72,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -88,7 +88,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUhRS1EwTTRqM0VQc1NaQjNkdCtIN0xPN2RxQVFCRTZEeHBUMm10aW9GQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid1cyNTRzZXFzaTZ2MFhTc3g2VFNsS25UZkJNaFFSTCtvUllkeGdnbUVUWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBSCtmSkNCWlRQYlkvRmJKb2pGL1B4WkkxVmF6S2puRlA3MUIwNy9BajBzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQXBEVlI2clVFRnF1VzRRY2NQejF4UjllVVlWSS92eUxlbDg5dSs4SGhjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNMdEZ5ek4xNFpIdllKNExJcUlOSmNTME1qVGtVbktEbzJaQklBTlA4VXM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InF5NEw2bnV0RFZ3SHY5L1QyakovaS9UekYyUVpHcmFVWXArZEQ3aWJ3ems9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUZHelpuK1JTYzZZN2hON2pibUUzOHQvUk10S09EL0dpRDZYMkpwYmlrdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicEQ2VGdQcFc5ZzcxMG83NVljWXJqa08vN2t1QmdHMStYMkRSWmlsN29BTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldONUpKTUxVZTFZQzZjcjkxdkZrVjlLeDVaam1tcHprRzJSOTNIVHNpZnVKSHRvZS9iUldiT290akM1Z0dzMTVtMkFFNGtjclJqSzMzbjhvb1d4dWpRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTUsImFkdlNlY3JldEtleSI6IjZURTRNenFqR3NNK3kvUC9DMllaWXZyazNvZkZtakVHZFVydFJhR0VEN2s9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjYzNzg5MDg1NTMzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6Ijc1MjU4MjZBNTFGMzgzMEU4MTg0N0NGNTg0NDFENzdGIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDUwOTM5Mzd9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI2Mzc4OTA4NTUzM0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI3NTgxOTY1NjEyREY0RjgyMENFMEQ3NzY3QkYyNjU4RiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1MDkzOTM3fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNjM3ODkwODU1MzNAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiOEUwNEI3RTM0RjhENEFBMEFENTEyMjkzOEFDMDY0RjMifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc0NTA5Mzk0MX1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiQU9XZDRPSUhTVnE1UEFXU1JRZFdhZyIsInBob25lSWQiOiI0YmJkODhjYS1iNGM3LTQ4ZmUtOWU3ZC0zZmY4OTQ1Y2U4M2IiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib2JmZDlCcWV0QUZqc3hzMUlyTE1IRyszeVZzPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImZrOTN5T3Vhdml4QmxUYXdRYytOb1ZXakZFZz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJFQUg5SkQ2VyIsIm1lIjp7ImlkIjoiMjYzNzg5MDg1NTMzOjUwQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IvCdkLfwnZC44oSV8J2QtfCdmYrwnZGM4piGIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQV0tqWk1DRUtHS2tNQUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI1V1NQU2RqQ2wwcmk0TlJuWWxaUkZjait3bnFwR1doN3FTam9KSHNXRXlBPSIsImFjY291bnRTaWduYXR1cmUiOiIyWWk4TmVkT2xySEhMQlFRM2R0ZkNnK3AwRzNWWXF0WXNDazNZSDlTdWlBcFJhd1phdlNhVHh4UmpRUlMwTFo3anBtcUdUQkV5YzhzdUJjeDlEcHNEZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiNXBDdUNrVGtCWFJ4WWlWTkc2UmZzMHhxdVJSQk9sN1ZiYWVVaVlBWUpUK2V4b0hKeG5odnVOdVR0ayttd0RHbDRveDQ5cmc5YXUrS290ZGtuYXlpaWc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjM3ODkwODU1MzM6NTBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZVZrajBuWXdwZEs0dURVWjJKV1VSWEkvc0o2cVJsb2U2a282Q1I3RmhNZyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NTA5MzkzNCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFETkcifQ==",
       "required":true
       
     },
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "©𝐷𝐸ℕ𝐵𝙊𝑌☆"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254759626063"
+    "value": "263789085533"
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 for online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"3",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
